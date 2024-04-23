@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214978725296",
+    "project_id": "dressa-33e84",
+    "storage_bucket": "dressa-33e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214978725296:android:2d7b695e9dae9b9ad2c275",
+        "android_client_info": {
+          "package_name": "com.example.dressa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnmiN9NGJqKg0NOPCoSKPUVgsPYZoEqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
